@@ -1,0 +1,9 @@
+# This repository lives beside private training data and generated models.
+# Ignore everything by default and explicitly publish only source/docs.
+*
+!.gitignore
+!README.md
+!README_JA.md
+!drowsiness_monitor.py
+!run_drowsiness_monitor.sh
+!drowsiness_warning.mp3
