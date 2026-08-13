@@ -103,8 +103,6 @@ The EAR threshold can be adjusted for the user, camera angle, glasses, and light
 ./run_drowsiness_monitor.sh --no-detectnet --ear-threshold 0.20 --sleep-seconds 15
 ```
 
-**Video explanation:** Not available yet.
-
 ---
 
 # Jetson 居眠り検知モニター
@@ -212,4 +210,3 @@ EARの閾値は、利用者、カメラの角度、眼鏡、照明に合わせ�
 ./run_drowsiness_monitor.sh --no-detectnet --ear-threshold 0.20 --sleep-seconds 15
 ```
 
-**動画での解説：** 現在準備中です。
